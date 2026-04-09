@@ -38,103 +38,58 @@ A futuristic native hologram profile card component. highly animated "Holographi
 
 ## Blocks
 
-![ProfileImageClicked_Event.png](https://github.com/user-attachments/assets/ee352d39-dec9-4bff-98d9-a9f3eaf06ec3)
-
-![ProfileTitleClicked_Event.png](https://github.com/user-attachments/assets/d7f15c4b-9cb7-4535-9b6f-4fa670f84011)
-
-![Opened_Event.png](https://github.com/user-attachments/assets/2d3911bb-bae1-497a-a4ae-756adfb7c07c)
-
-![Closed_Event.png](https://github.com/user-attachments/assets/8b76ad36-ca58-48e7-a6c7-6b1528852756)
-
-![ProfileNameClicked_Event.png](https://github.com/user-attachments/assets/e5e7dc8a-e743-44bd-aade-df1a252c9abe)
-
-![ProfileStatsClicked_Event.png](https://github.com/user-attachments/assets/6eeb326e-fe6e-4c8d-9689-12149396af21)
-
-![ButtonClicked_Event.png](https://github.com/user-attachments/assets/7d123bbf-2dda-4480-a94b-a3d12b4f6d57)
+<img width="326" height="60" alt="ProfileStatsClicked_Event" src="https://github.com/user-attachments/assets/71e73d75-7b91-4dab-a00b-16004de1c533" />
+<img width="332" height="60" alt="ProfileNameClicked_Event" src="https://github.com/user-attachments/assets/82f1fc2b-afb7-4e1b-84b8-d4ea157b3f95" />
+<img width="333" height="60" alt="ProfileImageClicked_Event" src="https://github.com/user-attachments/assets/50cd8c35-c3b9-48c0-bb0e-05b5d3c03a83" />
+<img width="254" height="60" alt="Opened_Event" src="https://github.com/user-attachments/assets/e2d6a380-0429-43fe-9c17-33f2c16c154b" />
+<img width="293" height="60" alt="ButtonClicked_Event" src="https://github.com/user-attachments/assets/accf8f00-a4ff-4fd4-9461-d9a1a79fc0a4" />
+<img width="320" height="60" alt="ProfileTitleClicked_Event" src="https://github.com/user-attachments/assets/9faad510-ac1c-4592-9fd6-224a7558eeb8" />
 
 -----
 
-![Initialize_Method.png](https://github.com/user-attachments/assets/bf96ad26-df10-411d-bc7c-185a3e3bf9e8)
-
-![Toggle_Method.png](https://github.com/user-attachments/assets/49f5ce04-d501-4723-a030-d64931ae8180)
-
-![Close_Method.png](https://github.com/user-attachments/assets/13bdab26-217a-47a7-89a4-1bac16f66d46)
-
-![Open_Method.png](https://github.com/user-attachments/assets/1bd362b9-188c-41bf-825b-1069b6722061)
+<img width="227" height="30" alt="Open_Method" src="https://github.com/user-attachments/assets/9e14a4fe-5bf4-4aa2-938e-a4bb15efbbd0" />
+<img width="253" height="55" alt="Initialize_Method" src="https://github.com/user-attachments/assets/5a2d6a4c-0f6f-4ee9-914f-dc389b80f404" />
+<img width="229" height="30" alt="Close_Method" src="https://github.com/user-attachments/assets/34aa2178-04ea-4d03-9f0c-339b938ab656" />
+<img width="236" height="30" alt="Toggle_Method" src="https://github.com/user-attachments/assets/3c96fd8d-331e-46f0-a887-a536376d539a" />
 
 -----
 
-![TextColor_Set_Property.png](https://github.com/user-attachments/assets/d222ddfe-2504-41e0-b6ba-67c9741a2112)
+<img width="294" height="26" alt="ButtonStartColor_Get_Property" src="https://github.com/user-attachments/assets/c8841d40-a6e4-4fec-9691-79b83d662e86" />
+<img width="349" height="30" alt="ButtonEndColor_Set_Property" src="https://github.com/user-attachments/assets/4da9b4c4-e63a-4f26-92a4-50cbe56fa089" />
+<img width="289" height="26" alt="ButtonEndColor_Get_Property" src="https://github.com/user-attachments/assets/bc93a292-61b4-4ae7-b882-e9ebacf62fc0" />
+<img width="302" height="30" alt="BgImage_Set_Property" src="https://github.com/user-attachments/assets/b326a8a4-f70f-40e0-9cb4-721a81f22c87" />
+<img width="243" height="26" alt="BgImage_Get_Property" src="https://github.com/user-attachments/assets/e11a373d-06d1-4fc2-a6ce-60b5e87bd8bd" />
+<img width="386" height="30" alt="BgGradientStartColor_Set_Property" src="https://github.com/user-attachments/assets/be88bce8-97e9-4e11-a337-aa58eae959fc" />
+<img width="326" height="26" alt="BgGradientStartColor_Get_Property" src="https://github.com/user-attachments/assets/28b93b7a-4b78-45e1-a6bc-d5a1e8ba54a2" />
+<img width="381" height="30" alt="BgGradientEndColor_Set_Property" src="https://github.com/user-attachments/assets/d9e6d8d7-4f50-4883-bad4-7627e3fdcea4" />
+<img width="321" height="26" alt="BgGradientEndColor_Get_Property" src="https://github.com/user-attachments/assets/28937bbe-7dd6-4f3e-b671-3c9c15a7e46f" />
+<img width="297" height="30" alt="BgColor_Set_Property" src="https://github.com/user-attachments/assets/b24b3c3a-bf4f-4a94-9784-4491c548d770" />
+<img width="238" height="26" alt="BgColor_Get_Property" src="https://github.com/user-attachments/assets/e25cb6e1-4020-470e-95d8-516ffc086b75" />
+<img width="309" height="30" alt="TextColor_Set_Property" src="https://github.com/user-attachments/assets/bff55b31-8242-4e2a-9b2f-58ecff1a0e61" />
+<img width="249" height="26" alt="TextColor_Get_Property" src="https://github.com/user-attachments/assets/c59dc9e0-5341-43e1-bd61-090f59460b00" />
+<img width="314" height="30" alt="StatsColor_Set_Property" src="https://github.com/user-attachments/assets/d7d97459-1e45-4f5a-8e9f-053e6b30ca70" />
+<img width="254" height="26" alt="StatsColor_Get_Property" src="https://github.com/user-attachments/assets/8fb999be-9ace-4f6f-b987-ca8ad6ebbb65" />
+<img width="339" height="30" alt="ProjectorColor_Set_Property" src="https://github.com/user-attachments/assets/1ff62269-391a-4de6-859f-28a072d31796" />
+<img width="279" height="26" alt="ProjectorColor_Get_Property" src="https://github.com/user-attachments/assets/abeb344f-394d-4e6f-b449-cd6e4c9d64a1" />
+<img width="313" height="30" alt="ProfileTitle_Set_Property" src="https://github.com/user-attachments/assets/9b0fbc7b-8612-431f-915f-a648444d6407" />
+<img width="254" height="26" alt="ProfileTitle_Get_Property" src="https://github.com/user-attachments/assets/45e50536-c7e2-4ce7-bc29-13c1e95a503c" />
+<img width="319" height="30" alt="ProfileStats_Set_Property" src="https://github.com/user-attachments/assets/efd522a4-c5ee-4973-a3ba-bff499b19996" />
+<img width="259" height="26" alt="ProfileStats_Get_Property" src="https://github.com/user-attachments/assets/2812cd4b-af23-4745-a1a2-575ffd063222" />
+<img width="325" height="30" alt="ProfileName_Set_Property" src="https://github.com/user-attachments/assets/28409cea-feba-4a54-8220-aee7a178e1e3" />
+<img width="265" height="26" alt="ProfileName_Get_Property" src="https://github.com/user-attachments/assets/d454b5f9-7db7-4e27-80d8-e2fa838af70e" />
+<img width="345" height="30" alt="ProfileImageUrl_Set_Property" src="https://github.com/user-attachments/assets/18ca9884-e36d-4b49-ba84-75934c6cd183" />
+<img width="285" height="26" alt="ProfileImageUrl_Get_Property" src="https://github.com/user-attachments/assets/9fce367c-159e-42af-8662-3cac002af8e8" />
+<img width="375" height="30" alt="HologramStartColor_Set_Property" src="https://github.com/user-attachments/assets/1357bb4d-2b70-4bca-ad5c-ae274d056679" />
+<img width="315" height="26" alt="HologramStartColor_Get_Property" src="https://github.com/user-attachments/assets/5b230291-da46-48be-97b8-231795347353" />
+<img width="350" height="30" alt="HologramSpeed_Set_Property" src="https://github.com/user-attachments/assets/e30a02e4-34ed-4711-906e-acc9e826ceb6" />
+<img width="290" height="26" alt="HologramSpeed_Get_Property" src="https://github.com/user-attachments/assets/8e736654-9fa8-4a82-8fc9-e84884fde76e" />
+<img width="349" height="30" alt="HologramImage_Set_Property" src="https://github.com/user-attachments/assets/120b0918-c509-4705-be71-34855434cea7" />
+<img width="289" height="26" alt="HologramImage_Get_Property" src="https://github.com/user-attachments/assets/bb4fcdd7-583b-47cb-bc4c-2bb51f1253f1" />
+<img width="370" height="30" alt="HologramEndColor_Set_Property" src="https://github.com/user-attachments/assets/64f066ee-b442-4053-bc62-ff2b6e1f2729" />
+<img width="310" height="26" alt="HologramEndColor_Get_Property" src="https://github.com/user-attachments/assets/d637b69c-60dc-4ee4-809a-3ea7b43a2a53" />
+<img width="256" height="26" alt="ButtonText_Get_Property" src="https://github.com/user-attachments/assets/9e442d81-8f4e-4ab0-ba10-9d26633aea88" />
+<img width="354" height="30" alt="ButtonStartColor_Set_Property" src="https://github.com/user-attachments/assets/bc76f374-279e-49b9-bf83-b555d057657e" />
 
-![HologramSpeed_Get_Property.png](https://github.com/user-attachments/assets/89c5ab87-9b35-4c24-9c6f-3abb3ce4d74d)
-
-![StatsColor_Set_Property.png](https://github.com/user-attachments/assets/fbbac4a4-d878-48d0-83fa-ce90fc01cd27)
-
-![HologramStartColor_Set_Property.png](https://github.com/user-attachments/assets/83639541-7ce0-4ea4-acb2-03c562556698)
-
-![TextColor_Get_Property.png](https://github.com/user-attachments/assets/c9e73285-b5e7-428a-ba54-5c47bde0c1d2)
-
-![StatsColor_Get_Property.png](https://github.com/user-attachments/assets/977f1174-ba7c-4104-9e6a-e277718c92c4)
-
-![ProjectorColor_Get_Property.png](https://github.com/user-attachments/assets/0fb12381-04ad-489c-8be7-fdda9a77d2e4)
-
-![ProjectorColor_Set_Property.png](https://github.com/user-attachments/assets/94e44a96-14f8-49c5-8eaf-a14dab8d3d7f)
-
-![ProfileTitle_Get_Property.png](https://github.com/user-attachments/assets/cab98c28-6283-4b35-9ac0-e411b44ccae6)
-
-![HologramStartColor_Get_Property.png](https://github.com/user-attachments/assets/ef7f31db-ab4f-40fd-9c2f-c1ded4370dff)
-
-![ProfileTitle_Set_Property.png](https://github.com/user-attachments/assets/7d69a1f3-9f6a-48fc-8066-4a354e492a45)
-
-![ProfileStats_Set_Property.png](https://github.com/user-attachments/assets/c5445426-992a-4d88-ad21-2863fc149f3f)
-
-![ProfileName_Set_Property.png](https://github.com/user-attachments/assets/a4772bcd-dbd5-497d-b7e1-734d2e72776c)
-
-![BgGradientEndColor_Set_Property.png](https://github.com/user-attachments/assets/26fb22f4-844c-406c-ac16-0e366993c690)
-
-![ProfileStats_Get_Property.png](https://github.com/user-attachments/assets/3b645093-3edd-4a68-91f1-6be1adcce39c)
-
-![ProfileName_Get_Property.png](https://github.com/user-attachments/assets/c4aa8c29-9188-442b-8f88-cde07f709a23)
-
-![HologramSpeed_Set_Property.png](https://github.com/user-attachments/assets/e72a61c1-289c-4bb2-b49e-4fad555cbb8f)
-
-![ProfileImageUrl_Get_Property.png](https://github.com/user-attachments/assets/828dfcf6-3f2b-4db1-9f24-d0ac4a038509)
-
-![ProfileImageUrl_Set_Property.png](https://github.com/user-attachments/assets/59954cde-f72d-4080-a16b-b7f0ab18bced)
-
-![BgImage_Get_Property.png](https://github.com/user-attachments/assets/0f2c3616-80b5-4665-95ba-a96e859f18ab)
-
-![HologramImage_Set_Property.png](https://github.com/user-attachments/assets/c9809d8c-7120-4bbd-b836-10936d5093ec)
-
-![ButtonText_Get_Property.png](https://github.com/user-attachments/assets/57263ed6-aad1-402a-8a1c-df6dabdc0e4b)
-
-![ButtonEndColor_Set_Property.png](https://github.com/user-attachments/assets/59cbaf0b-71d0-4374-8f33-020a14aeb1b7)
-
-![HologramEndColor_Get_Property.png](https://github.com/user-attachments/assets/8985309f-ac85-43d0-92ab-4f8dcfc94af3)
-
-![HologramImage_Get_Property.png](https://github.com/user-attachments/assets/be4cd1ec-be6a-4a9c-b53f-6a49b85ff9c3)
-
-![HologramEndColor_Set_Property.png](https://github.com/user-attachments/assets/a04d59e2-cc08-4be4-9b30-d1e61eba3dee)
-
-![ButtonText_Set_Property.png](https://github.com/user-attachments/assets/63c01c14-a45d-480a-a425-421f0f84359d)
-
-![BgImage_Set_Property.png](https://github.com/user-attachments/assets/a45c525e-221c-4ca0-a270-564f21bb7464)
-
-![ButtonStartColor_Set_Property.png](https://github.com/user-attachments/assets/377281ba-063f-4f53-8622-80029e631286)
-
-![ButtonStartColor_Get_Property.png](https://github.com/user-attachments/assets/55486bea-b730-4fd6-b17d-44e3931a65be)
-
-![ButtonEndColor_Get_Property.png](https://github.com/user-attachments/assets/6158655c-83d1-48e1-b226-4bf9c428357b)
-
-![BgColor_Get_Property.png](https://github.com/user-attachments/assets/0d67d7e5-b867-4189-8a05-a11879c3c446)
-
-![BgGradientStartColor_Set_Property.png](https://github.com/user-attachments/assets/ce861693-6294-419d-9eb8-1332272d1652)
-
-![BgColor_Set_Property.png](https://github.com/user-attachments/assets/c90ae0d2-8dcf-4b2a-9c5f-55be10e5d21a)
-
-![BgGradientEndColor_Get_Property.png](https://github.com/user-attachments/assets/ff4aee66-10a8-4e5f-9d38-9963e7a578f7)
-
-![BgGradientStartColor_Get_Property.png](https://github.com/user-attachments/assets/46cdd992-bdf9-4980-9955-ef63e42fc0a9)
 
 <details>
 <summary>Documentation</summary>
