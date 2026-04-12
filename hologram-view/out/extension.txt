@@ -1,0 +1,327 @@
+<div align="center">
+<h1><kbd>🧩 HologramView</kbd></h1>
+An extension for MIT App Inventor 2.<br>
+A futuristic native hologram profile card component. highly animated "Holographic Profile Card" into your Android apps. This extension uses purely native Android views (no WebViewer!) to recreate advanced CSS animations, including floating skewed projections and blinking projector light effects. Developed by TechHamara Ussing Fast. <br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a><br><a href='https://buymeacoffee.com/techhamara' target='_blank'><small><u>Find More On BuyMeCoffee Page</u></small></a>
+</div>
+
+## 📝 Specifications
+* **
+📦 **Package:** io.th.hologramview
+💾 **Size:** 30.45 KB
+⚙️ **Version:** 1.0
+📱 **Minimum API Level:** 7
+📅 **Updated On:** [date=2026-04-09 timezone="Asia/Calcutta"]
+💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
+
+## <kbd>Events:</kbd>
+**HologramView** has total 7 events.
+
+### Opened
+Triggered when the hologram opens fully.
+
+### Closed
+Triggered when the hologram closes fully.
+
+### ButtonClicked
+Triggered when the follow button is clicked.
+
+### ProfileImageClicked
+Triggered when the profile image is tapped.
+
+### ProfileNameClicked
+Triggered when the profile name is tapped.
+
+### ProfileTitleClicked
+Triggered when the profile title is tapped.
+
+### ProfileStatsClicked
+Triggered when the profile stats are tapped.
+
+## <kbd>Methods:</kbd>
+**HologramView** has total 4 methods.
+
+### Initialize
+Initialize the hologram inside a given arrangement (Horizontal, Vertical, etc).
+
+| Parameter | Type
+| - | - |
+| arrangement | component
+
+### Open
+Open the hologram card animation.
+
+### Close
+Close the hologram card animation.
+
+### Toggle
+Toggle the hologram card between open and closed.
+
+## <kbd>Designer:</kbd>
+**HologramView** has total 16 designer properties.
+
+### ProfileName
+
+* Input type: `string`
+* Default value: `TechHamara`
+
+### ProfileTitle
+
+* Input type: `string`
+* Default value: `Developer`
+
+### ProfileStats
+
+* Input type: `string`
+* Default value: `Group 216 | Code 90 | Grade 40`
+
+### ButtonText
+
+* Input type: `string`
+* Default value: `FOLLOW ME`
+
+### ProfileImageUrl
+
+* Input type: `string`
+* Default value: `https://ibb.co/tTtSLy4Z`
+
+### HologramStartColor
+
+* Input type: `color`
+* Default value: `&HFF1E50B4`
+
+### HologramEndColor
+
+* Input type: `color`
+* Default value: `&HFF5A8CF0`
+
+### ProjectorColor
+
+* Input type: `color`
+* Default value: `&HFF505057`
+
+### ButtonStartColor
+
+* Input type: `color`
+* Default value: `&HFF3C6ED2`
+
+### ButtonEndColor
+
+* Input type: `color`
+* Default value: `&HFF6496FA`
+
+### TextColor
+
+* Input type: `color`
+* Default value: `&HFFFFFFFF`
+
+### StatsColor
+
+* Input type: `color`
+* Default value: `&HFFC8C8CD`
+
+### HologramSpeed
+
+* Input type: `integer`
+* Default value: `15000`
+
+### BgGradientStartColor
+
+* Input type: `color`
+* Default value: `&HFF0A0A11`
+
+### BgGradientEndColor
+
+* Input type: `color`
+* Default value: `&HFF323239`
+
+### BgColor
+
+* Input type: `color`
+* Default value: `&H00000000`
+
+## <kbd>Setters:</kbd>
+**HologramView** has total 18 setter properties.
+
+### ProfileName
+Set the profile name.
+
+* Input type: `text`
+
+### ProfileTitle
+Set the profile title.
+
+* Input type: `text`
+
+### ProfileStats
+Set the profile stats text.
+
+* Input type: `text`
+
+### ButtonText
+Set the button text.
+
+* Input type: `text`
+
+### ProfileImageUrl
+Set the profile image URL.
+
+* Input type: `text`
+
+### HologramStartColor
+Set the hologram start color.
+
+* Input type: `number`
+
+### HologramEndColor
+Set the hologram end color.
+
+* Input type: `number`
+
+### ProjectorColor
+Set the projector color.
+
+* Input type: `number`
+
+### ButtonStartColor
+Set the button start color.
+
+* Input type: `number`
+
+### ButtonEndColor
+Set the button end color.
+
+* Input type: `number`
+
+### TextColor
+Set the text color.
+
+* Input type: `number`
+
+### StatsColor
+Set the stats color.
+
+* Input type: `number`
+
+### HologramSpeed
+Set the hologram speed.
+
+* Input type: `number`
+
+### BgGradientStartColor
+Get the home page gradient start color.
+
+* Input type: `number`
+
+### BgGradientEndColor
+Get the home page gradient end color.
+
+* Input type: `number`
+
+### BgColor
+Get the home page color.
+
+* Input type: `number`
+
+### BgImage
+Set home page image of url or assets
+
+* Input type: `text`
+
+### HologramImage
+Set the background image of the hologram projection from URL or asset.
+
+* Input type: `text`
+
+## <kbd>Getters:</kbd>
+**HologramView** has total 18 getter properties.
+
+### ProfileName
+Set the profile name.
+
+* Return type: `text`
+
+### ProfileTitle
+Set the profile title.
+
+* Return type: `text`
+
+### ProfileStats
+Set the profile stats text.
+
+* Return type: `text`
+
+### ButtonText
+Set the button text.
+
+* Return type: `text`
+
+### ProfileImageUrl
+Set the profile image URL.
+
+* Return type: `text`
+
+### HologramStartColor
+Set the hologram start color.
+
+* Return type: `number`
+
+### HologramEndColor
+Set the hologram end color.
+
+* Return type: `number`
+
+### ProjectorColor
+Set the projector color.
+
+* Return type: `number`
+
+### ButtonStartColor
+Set the button start color.
+
+* Return type: `number`
+
+### ButtonEndColor
+Set the button end color.
+
+* Return type: `number`
+
+### TextColor
+Set the text color.
+
+* Return type: `number`
+
+### StatsColor
+Set the stats color.
+
+* Return type: `number`
+
+### HologramSpeed
+Set the hologram speed.
+
+* Return type: `number`
+
+### BgGradientStartColor
+Get the home page gradient start color.
+
+* Return type: `number`
+
+### BgGradientEndColor
+Get the home page gradient end color.
+
+* Return type: `number`
+
+### BgColor
+Get the home page color.
+
+* Return type: `number`
+
+### BgImage
+Set home page image of url or assets
+
+* Return type: `text`
+
+### HologramImage
+Set the background image of the hologram projection from URL or asset.
+
+* Return type: `text`
+
