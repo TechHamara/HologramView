@@ -1,7 +1,7 @@
 <div align="center">
 <h1><kbd>🧩 HologramView</kbd></h1>
 An extension for MIT App Inventor 2.<br>
-A futuristic native hologram profile card component. highly animated "Holographic Profile Card" into your Android apps. This extension uses purely native Android views (no WebViewer!) to recreate advanced CSS animations, including floating skewed projections and blinking projector light effects. Developed by TechHamara Ussing Fast. <br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a><br><a href='https://buymeacoffee.com/techhamara' target='_blank'><small><u>Find More On BuyMeCoffee Page</u></small></a>
+A futuristic native hologram profile card component. highly animated "Holographic Profile Card" into your Android apps. This extension uses purely native Android views, including floating skewed projections and blinking projector light effects. Developed by TechHamara Ussing Fast. <br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a><br><a href='https://buymeacoffee.com/techhamara' target='_blank'><small><u>Find More On BuyMeCoffee Page</u></small></a>
 </div>
 
 ## 📝 Specifications
