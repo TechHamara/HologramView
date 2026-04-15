@@ -14,6 +14,28 @@ A futuristic native hologram profile card component. highly animated "Holographi
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-publish-extensions/129103?u=jewel) <small><mark>v5.7.0</mark></small><br>
 
 
+## Demo
+
+![Screenshot_2026-04-07-14-09-53-958_appinventor.ai_Techhamara91.hologram.jpg](https://github.com/user-attachments/assets/41778c66-db10-43a1-a3c8-86c511d9923f)
+
+![Screenshot_2026-04-07-14-09-37-238_appinventor.ai_Techhamara91.hologram.jpg](https://github.com/user-attachments/assets/e24120b8-787b-4f60-b4ac-092bd33c8582)
+
+![Screenshot_2026-04-07-11-15-13-506_com.android.chrome-edit.jpg](https://github.com/user-attachments/assets/61938288-2cfe-451d-9a20-0106f1bc783e)
+
+![blocks.png](https://github.com/user-attachments/assets/cf3f0e18-0927-45ce-a6c9-950bc35586c0)
+
+![Screenshot_2026-04-07-14-09-18-270_appinventor.ai_Techhamara91.hologram.jpg](https://github.com/user-attachments/assets/aa3c1aa6-1e8c-4242-8cb7-36b2a81f0779)
+
+![Screenshot_2026-04-07-11-14-36-624_com.android.chrome-edit.jpg](https://github.com/user-attachments/assets/9a226a99-8cb7-4ce9-9ca3-314d526699ed)
+
+![Holo2.gif](https://github.com/user-attachments/assets/e6eb56a7-926c-4905-abb2-199b35496a23)
+
+![Holo3.gif](https://github.com/user-attachments/assets/793c86de-7d06-44a5-92dd-f616d89b7b4a)
+
+![Holo1.gif](https://github.com/user-attachments/assets/df4bfa3f-0562-47ec-91c9-66f89863fdeb)
+
+
+
 ## Blocks
 
 ![ProfileImageClicked_Event.png](https://github.com/user-attachments/assets/ee352d39-dec9-4bff-98d9-a9f3eaf06ec3)

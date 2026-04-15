@@ -1,6 +1,6 @@
 # HologramView Extension
 
-An extension for MIT App Inventor 2 that brings a futuristic, highly animated "Holographic Profile Card" into your Android apps. This extension uses purely native Android views, including floating skewed projections and blinking projector light effects.
+An extension for MIT App Inventor 2 that brings a futuristic, highly animated "Holographic Profile Card" into your Android apps. This extension uses purely native Android views (no WebViewer!) to recreate advanced CSS animations, including floating skewed projections and blinking projector light effects.
 
 Created by: TechHamara  
 Compiled by: FAST
