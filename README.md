@@ -422,13 +422,14 @@ An extension for MIT App Inventor 2.<br>
 </div>
 
 ## 📝 Specifications
-📦 **Package:** io.th.hologramview
-💾 **Size:** 37.1KB
-📱 **Minimum API Level:** 7
-⚙️ **Version:** 1.0
-📅 **Updated On:** 2026-06-03
-👤 **Author:** TechHamara
+📦 **Package:** io.th.hologramview<br>
+💾 **Size:** 37.1KB<br>
+📱 **Minimum API Level:** 7<br>
+⚙️ **Version:** 1.0<br>
+📅 **Updated On:** 2026-06-03<br>
+👤 **Author:** TechHamara<br>
 💻 **Built & documented using:** [Bolt CLI](https://github.com/TechHamara/bolt-cli)
+<br>
 
 ## <kbd>Events:</kbd>
 **HologramView** has total 7 events.
