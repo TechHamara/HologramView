@@ -1,0 +1,248 @@
+Bolt is initialized.
+BOLT Version: 1.0.0-th01
+JRE Version: 11.0.30
+JRE Specification: 11
+JRE Home: C:\Program Files\Java\jdk-11.0.30
+Gradle Version: not installed
+Gradle Library Path: C:\Users\kapil\.gradle\caches\modules-2\files-2.1
+Maven Version: 3.9.9
+Maven Resolver: v2.0.18
+OS Name: Windows 10
+OS Version: "Windows 10 Pro Education" 10.0 (Build 19045)
+Architecture: amd64
+Username: kapil
+User Home: C:\Users\kapil
+Working Directory: F:\FastFile\MyPaid\Layout\hologram-view\hologram-view2\hologram-view
+Path Separator: \
+File Separator: \
+Line Separator: \r\n
+
+│ info  Auto-versioning enabled. Incrementing version numbers...
+│ info  Auto-version: Incremented version in HologramView.java to "2"
+│ debug persisting proguard flag into F:\FastFile\MyPaid\Layout\hologram-view\hologram-view2\hologram-view\bolt.yml
+│ debug updated bolt.yml to enable proguard
+│ info  bolt build initialized.
+│ info  Gradle Version: not installed
+│ info  Maven Version: 3.9.9
+│ info  Maven Resolver: v2.0.18
+│ debug -r passed as an argument to run the proguard task.
+│ debug PROJECT_DIR: F:\FastFile\MyPaid\Layout\hologram-view\hologram-view2\hologram-view
+│ debug bolt.yml is found at: F:\FastFile\MyPaid\Layout\hologram-view\hologram-view2\hologram-view\bolt.yml
+│ debug Got the JAVA_HOME from environment variable.
+│ debug JAVA_HOME: C:\Program Files\Java\jdk-11.0.30
+│ debug Got BOLT_HOME from environment variable.
+│ debug BOLT_HOME: C:\Users\kapil\.bolt
+│ debug KOTLIN_HOME: C:\Users\kapil\.bolt\lib\compiler\1.8.0\kotlinc
+info  Dependencies are up-to-date; skipping sync task.
+info  Cleaning build caches
+info  Increasing Components version
+│ debug AndroidManifest.xml is found at: F:\FastFile\MyPaid\Layout\hologram-view\hologram-view2\hologram-view\src\AndroidManifest.xml
+│ info  Reading AndroidManifest.xml
+│ debug Package name is: io.th.hologramview
+│ debug No manifests found in dependencies; skipping manifest merge
+│ debug Checking the availability of .kt files.
+│ debug Checking the availability of .java files.
+│ debug Getting provided libraries.
+│ debug Got 78 libraries.
+│ debug Getting the libraries of deps folder.
+│ debug Got 0 libraries.
+│ debug Adding the aar-runtime.jar to the classpath
+│ debug Increasing components version.
+│ info  Picked 3 source files
+│ info  Compiling 3 Java files
+│ debug Compiling java classes with java helper sources as classpath.
+│ debug Compiling java classes.
+│ debug Found 3 sources.
+│ debug Successfully created javac arguments
+│ debug Calling javac commands.
+│       Picked up _JAVA_OPTIONS: -Xmx7000M
+│ warn  F:\FastFile\MyPaid\Layout\hologram-view\hologram-view2\hologram-view\src\io\th\hologramview\HologramView.java:269: Property has no description.
+│         public void BgGradientStartColor(int color) {
+│                     ^
+│ warn  F:\FastFile\MyPaid\Layout\hologram-view\hologram-view2\hologram-view\src\io\th\hologramview\HologramView.java:282: Property has no description.
+│         public void BgGradientEndColor(int color) {
+│                     ^
+│ warn  F:\FastFile\MyPaid\Layout\hologram-view\hologram-view2\hologram-view\src\io\th\hologramview\HologramView.java:295: Property has no description.
+│         public void BgColor(int color) {
+│                     ^
+│ warn  The following options were not recognized by any processor: '[auto_version]'
+│       4 warnings
+│ debug javac is successfully executed.
+│ info  Copying extension assets
+│ info  Generating AndroidRuntime.jar
+│ debug Unjaring dependencies.
+│ debug Adding the aar-runtime.jar to the libraries.jar
+│ debug Merging dependencies into a single jar.
+│ debug Generating AndroidRuntime.jar
+│ debug Merging the libraries.jar to the AndroidRuntime.jar
+│ debug Merging compiled sources and required deps.
+debug requestedProguard=true requestedR8=null config.proguard=true config.r8=true
+info  Effective build options:
+info    shrink (proguard|R8): true
+info      proguard flag: true
+info      R8 flag: true
+info    dex generation: true
+│ debug Will run the proguard task if -r passed.
+│ debug Running the proguard task.
+│ debug temporary proguard-rules.pro is created.
+│ debug calling proguard commands.
+│       Picked up _JAVA_OPTIONS: -Xmx7000M
+│       ProGuard, version 7.8.2
+│ debug duplicate definition of library class [com.google.api.client.json.JsonFactory]
+│ debug duplicate definition of library class [com.google.api.client.json.JsonParser$1]
+│ debug duplicate definition of library class [com.google.api.client.json.JsonParser]
+│ debug duplicate definition of library class [com.google.api.client.json.JsonGenerator]
+│ debug duplicate definition of library class [com.google.api.client.json.JsonToken]
+│ debug duplicate definition of library class [com.google.api.client.json.CustomizeJsonParser]
+│ debug duplicate definition of library class [com.google.api.client.json.JsonString]
+│ debug duplicate definition of library class [com.google.api.client.json.Json]
+│ debug duplicate definition of library class [com.google.api.client.json.GenericJson]
+│ debug duplicate definition of library class [com.google.api.client.json.rpc2.JsonRpcRequest]
+│ debug duplicate definition of library class [com.google.api.client.auth.oauth2.AuthorizationRequestUrl]
+│ debug duplicate definition of library class [com.google.api.client.auth.oauth.AbstractOAuthGetToken]
+│ debug duplicate definition of library class [com.google.api.client.auth.oauth.OAuthParameters]
+│ debug duplicate definition of library class [com.google.api.client.auth.oauth.OAuthSigner]
+│ debug duplicate definition of library class [com.google.api.client.auth.oauth.OAuthCredentialsResponse]
+│ debug duplicate definition of library class [com.google.api.client.auth.oauth.OAuthCallbackUrl]
+│ debug duplicate definition of library class [com.google.api.client.auth.oauth.OAuthRsaSigner]
+│ debug duplicate definition of library class [com.google.api.client.auth.oauth.OAuthHmacSigner]
+│ debug duplicate definition of library class [com.google.api.client.auth.oauth.OAuthAuthorizeTemporaryTokenUrl]
+│ debug duplicate definition of library class [com.google.api.client.auth.oauth.OAuthGetAccessToken]
+│ debug duplicate definition of library class [com.google.api.client.auth.oauth.OAuthGetTemporaryToken]
+│ debug duplicate definition of library class [com.google.api.client.http.HttpTransport]
+│ debug duplicate definition of library class [com.google.api.client.http.HttpRequestFactory]
+│ debug duplicate definition of library class [com.google.api.client.http.HttpRequestInitializer]
+│ debug duplicate definition of library class [com.google.api.client.http.HttpRequest$1]
+│ debug duplicate definition of library class [com.google.api.client.http.HttpRequest]
+│ debug duplicate definition of library class [com.google.api.client.http.LowLevelHttpRequest]
+│ debug duplicate definition of library class [com.google.api.client.http.HttpResponse]
+│ debug duplicate definition of library class [com.google.api.client.http.GenericUrl]
+│ debug duplicate definition of library class [com.google.api.client.http.HttpContent]
+│ debug duplicate definition of library class [com.google.api.client.http.HttpExecuteInterceptor]
+│ debug duplicate definition of library class [com.google.api.client.http.HttpUnsuccessfulResponseHandler]
+│ debug duplicate definition of library class [com.google.api.client.http.LowLevelHttpResponse]
+│ debug duplicate definition of library class [com.google.api.client.http.AbstractInputStreamContent]
+│ debug duplicate definition of library class [com.google.api.client.http.apache.ApacheHttpRequest]
+│ debug duplicate definition of library class [com.google.api.client.http.apache.ApacheHttpTransport]
+│ debug duplicate definition of library class [com.google.api.client.http.apache.ApacheHttpResponse]
+│ debug duplicate definition of library class [com.google.api.client.http.apache.ContentEntity]
+│ debug duplicate definition of library class [com.google.api.client.http.UrlEncodedContent]
+│ debug duplicate definition of library class [com.google.api.client.http.javanet.NetHttpRequest]
+│ debug duplicate definition of library class [com.google.api.client.http.javanet.NetHttpResponse]
+│ debug duplicate definition of library class [com.google.api.client.http.javanet.NetHttpTransport]
+│ debug duplicate definition of library class [com.google.api.client.http.ByteArrayContent]
+│ debug duplicate definition of library class [com.google.api.client.http.FileContent]
+│ debug duplicate definition of library class [com.google.api.client.http.UrlEncodedParser]
+│ debug duplicate definition of library class [com.google.api.client.http.HttpResponseException]
+│ debug duplicate definition of library class [com.google.api.client.http.json.JsonHttpContent]
+│ debug duplicate definition of library class [com.google.api.client.http.HttpHeaders]
+│ debug duplicate definition of library class [com.google.api.client.http.InputStreamContent]
+│ debug duplicate definition of library class [com.google.api.client.util.GenericData$EntrySet]
+│ debug duplicate definition of library class [com.google.api.client.util.GenericData$EntryIterator]
+│ debug duplicate definition of library class [com.google.api.client.util.GenericData]
+│ debug duplicate definition of library class [com.google.api.client.util.ArrayMap$EntrySet]
+│ debug duplicate definition of library class [com.google.api.client.util.ArrayMap$EntryIterator]
+│ debug duplicate definition of library class [com.google.api.client.util.ArrayMap$Entry]
+│ debug duplicate definition of library class [com.google.api.client.util.ArrayMap]
+│ debug duplicate definition of library class [com.google.api.client.util.ClassInfo$1]
+│ debug duplicate definition of library class [com.google.api.client.util.ClassInfo]
+│ debug duplicate definition of library class [com.google.api.client.util.FieldInfo]
+│ debug duplicate definition of library class [com.google.api.client.util.escape.Escaper]
+│ debug duplicate definition of library class [com.google.api.client.util.escape.UnicodeEscaper]
+│ debug duplicate definition of library class [com.google.api.client.util.escape.Platform$1]
+│ debug duplicate definition of library class [com.google.api.client.util.escape.Platform]
+│ debug duplicate definition of library class [com.google.api.client.util.escape.CharEscapers]
+│ debug duplicate definition of library class [com.google.api.client.util.escape.PercentEscaper]
+│ debug duplicate definition of library class [com.google.api.client.util.DateTime]
+│ debug duplicate definition of library class [com.google.api.client.util.DataMap$EntrySet]
+│ debug duplicate definition of library class [com.google.api.client.util.DataMap$EntryIterator]
+│ debug duplicate definition of library class [com.google.api.client.util.DataMap$Entry]
+│ debug duplicate definition of library class [com.google.api.client.util.DataMap]
+│ debug duplicate definition of library class [com.google.api.client.util.Key]
+│ debug duplicate definition of library class [com.google.api.client.util.ArrayValueMap$ArrayValue]
+│ debug duplicate definition of library class [com.google.api.client.util.ArrayValueMap]
+│ debug duplicate definition of library class [com.google.api.client.util.Value]
+│ debug duplicate definition of library class [com.google.api.client.util.Types$1$1]
+│ debug duplicate definition of library class [com.google.api.client.util.Types$1]
+│ debug duplicate definition of library class [com.google.api.client.util.Types]
+│ debug duplicate definition of library class [com.google.api.client.util.NullValue]
+│ debug duplicate definition of library class [com.google.api.client.util.Strings]
+│ debug duplicate definition of library class [com.google.api.client.util.Base64]
+│ debug duplicate definition of library class [com.google.api.client.util.Data]
+│ debug duplicate definition of library class [com.google.api.client.testing.http.MockLowLevelHttpResponse]
+│ debug duplicate definition of library class [com.google.api.client.testing.http.MockHttpContent]
+│ debug duplicate definition of library class [com.google.api.client.testing.http.MockLowLevelHttpRequest]
+│ debug duplicate definition of library class [com.google.api.client.testing.http.MockHttpTransport]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.ChartType]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.ColorSensorMode]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.ComponentCategory]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.ComponentConstants]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.ComponentDescriptorConstants]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.Default]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.Direction]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.EndedStatus]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.FileScope]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.GyroSensorMode]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.HorizontalAlignment]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.HtmlEntities]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.LineType]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.MapFeature]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.MapType]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.OptionList]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.PointStyle]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.PropertyTypeConstants]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.ReceivingState]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.ScaleUnits]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.ScreenAnimation]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.ScreenOrientation]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.Sensitivity]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.StartedStatus]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.TranslationContainer]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.TransportMethod]
+│ debug duplicate definition of library class [com.google.appinventor.components.common.VerticalAlignment]
+│ debug duplicate definition of library class [javax.xml.namespace.QName]
+│ debug duplicate definition of library class [org.apache.http.params.HttpParams]
+│ debug duplicate definition of library class [org.apache.http.params.HttpConnectionParams]
+│ debug duplicate definition of library class [org.apache.http.params.CoreConnectionPNames]
+│ debug duplicate definition of library class [org.apache.http.conn.ConnectTimeoutException]
+│ debug duplicate definition of library class [org.apache.http.conn.ssl.StrictHostnameVerifier]
+│ debug duplicate definition of library class [org.apache.http.conn.ssl.X509HostnameVerifier]
+│ debug duplicate definition of library class [org.apache.http.conn.ssl.BrowserCompatHostnameVerifier]
+│ debug duplicate definition of library class [org.apache.http.conn.ssl.SSLSocketFactory]
+│ debug duplicate definition of library class [org.apache.http.conn.ssl.AllowAllHostnameVerifier]
+│ debug duplicate definition of library class [org.apache.http.conn.ssl.AbstractVerifier]
+│ debug duplicate definition of library class [org.apache.http.conn.scheme.HostNameResolver]
+│ debug duplicate definition of library class [org.apache.http.conn.scheme.SocketFactory]
+│ debug duplicate definition of library class [org.apache.http.conn.scheme.LayeredSocketFactory]
+│ debug duplicate definition of library class [org.xmlpull.v1.XmlPullParserFactory]
+│ debug duplicate definition of library class [org.xmlpull.v1.XmlSerializer]
+│ debug duplicate definition of library class [org.xmlpull.v1.XmlPullParser]
+│ debug duplicate definition of library class [org.xmlpull.v1.XmlPullParserException]
+│ debug duplicate definition of library class [org.xmlpull.v1.sax2.Driver]
+│ debug there were 131 duplicate class definitions.
+│             (https://www.guardsquare.com/proguard/manual/troubleshooting#duplicateclass)
+│ debug the configuration explicitly specifies 'androidx.appcompat.app.AppCompatViewInflater' to keep library class 'androidx.appcompat.app.AppCompatViewInflater'
+│ debug the configuration explicitly specifies 'androidx.appcompat.widget.SearchView' to keep library class 'androidx.appcompat.widget.SearchView'
+│ debug the configuration explicitly specifies 'androidx.core.app.CoreComponentFactory' to keep library class 'androidx.core.app.CoreComponentFactory'
+│ debug the configuration explicitly specifies 'android.support.**Parcelizer' to keep library class 'android.support.v4.graphics.drawable.IconCompatParcelizer'
+│ debug the configuration explicitly specifies 'androidx.**Parcelizer' to keep library class 'androidx.core.graphics.drawable.IconCompatParcelizer'
+│ debug the configuration explicitly specifies 'androidx.versionedparcelable.ParcelImpl' to keep library class 'androidx.versionedparcelable.ParcelImpl'
+│ debug proguard is successfully executed.
+│ debug Moving the runtime jar to the desired dir of raw..
+│ debug Running the dexing task.
+│ debug Generating DEX bytecode.
+│ debug Successfully created dexing arguments
+│ debug Calling dexing commands.
+│       Picked up _JAVA_OPTIONS: -Xmx7000M
+│ debug D8 is successfully executed.
+│ debug Packaging compiled classes.
+│ debug Generating docs for extension
+│ debug Writing docs for single component extension.
+│ info  Generating docs in Markdown
+│ debug Packaging the aix at: F:\FastFile\MyPaid\Layout\hologram-view\hologram-view2\hologram-view\out\io.th.hologramview.aix
+│ debug Setting extension size on docs. Size is: 37.1KB
+│ info  Packaging extension at .\out\io.th.hologramview.aix (37.1KB)
+│ debug Saving the docs to out/extension.txt
+│ debug Clearing the written docs.
+
+> BUILD SUCCESSFUL in 28s 965ms
